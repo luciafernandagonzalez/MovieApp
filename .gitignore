@@ -1,0 +1,21 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+
+# Visual Studio files
+*.suo
+*.user
+
+.vs/
+
+# Entity Framework Core files
+appsettings.Development.json.user
+
+# Secret Manager
+*.json.user
+
+# Logs
+*.log
